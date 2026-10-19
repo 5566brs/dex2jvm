@@ -1,5 +1,7 @@
 # dex2jvm
 
+[![Sponsor](https://img.shields.io/badge/sponsor-kksimp-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/kksimp)
+
 **A DEX-to-JVM bytecode converter built to *run* the output, not just read it.**
 
 dex2jvm converts the Dalvik bytecode inside an Android app (`classes*.dex`) into
